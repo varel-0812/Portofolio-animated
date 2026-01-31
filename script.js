@@ -144,7 +144,7 @@ function initializeProjects() {
             description: "Website toko online dengan sistem pembayaran dan dashboard admin.",
             category: "web",
             tech: ["HTML", "CSS", "JavaScript", "PHP"],
-            image: "/images/fashion.png", // Gambar thumbnail di folder images
+            image: "images/fashion.png", // Gambar thumbnail di folder images
             demoUrl: "../porto-project/projects/ecommerce-web/index.html", // Path ke website di folder projects
             links: {
                 demo: "../porto-project/projects/ecommerce-web/index.html", // Sama seperti demoUrl
@@ -157,7 +157,7 @@ function initializeProjects() {
             description: "Aplikasi manajemen tugas dengan fitur drag & drop dan local storage.",
             category: "app",
             tech: ["JavaScript", "LocalStorage", "CSS Grid"],
-            image: "/images/todo.png",
+            image: "images/todo.png",
             demoUrl: "../porto-project/projects/todo-app/index.html",
             links: {
                 demo: "../porto-project/projects/todo-app/index.html",
@@ -170,7 +170,7 @@ function initializeProjects() {
             description: "Desain website portfolio dengan animasi dan efek parallax.",
             category: "design",
             tech: ["Figma", "Photoshop", "CSS Animation"],
-            image: "/images/portodes.png",
+            image: "images/portodes.png",
             demoUrl: "../porto-project/projects/portofolio-design/index.html",
             links: {
                 demo: "../porto-projectprojects/portfolio-design/index.html",
@@ -183,7 +183,7 @@ function initializeProjects() {
             description: "Dashboard cuaca dengan API integration dan chart visualisasi.",
             category: "web",
             tech: ["API", "Chart.js", "JavaScript"],
-            image: "/images/weatherrel.png",
+            image: "images/weatherrel.png",
             demoUrl: "../porto-project/projects/weather-dashboard/index.html",
             links: {
                 demo: "../porto-project/projects/weather-dashboard/index.html",
@@ -196,7 +196,7 @@ function initializeProjects() {
             description: "Website restoran dengan menu online dan sistem reservasi.",
             category: "web",
             tech: ["HTML5", "CSS3", "JavaScript", "Form Validation"],
-            image: "/images/restaurant.png",
+            image: "images/restaurant.png",
             demoUrl: "../porto-project/projects/restaurant-website/index.html",
             links: {
                 demo: "../porto-project/projects/restaurant-website/index.html",
@@ -209,7 +209,7 @@ function initializeProjects() {
             description: "Game sederhana berbasis JavaScript dengan canvas dan animasi.",
             category: "app",
             tech: ["Canvas API", "JavaScript", "Game Physics"],
-            image: "/images/game.png",
+            image: "images/game.png",
             demoUrl: "../projects/javascript-game/index.html",
             links: {
                 demo: "../projects/javascript-game/index.html",
